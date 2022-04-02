@@ -1,14 +1,4 @@
-/* Here in the .cpp you should define and implement everything declared in the .h file.
- */
-
 #include "maze.h"
-
-
-void get_identity(string &my_id)
-{
-	my_id = "jpgdg6";
-}
-
 
 string * build_matrix(int rows)
 {
