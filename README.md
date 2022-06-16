@@ -1,2 +1,2 @@
 # Maze
-Recursive maze solver algorithm
+Recursive maze solving algorithm
